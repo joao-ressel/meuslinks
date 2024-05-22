@@ -12,4 +12,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+"Meus Links" é um agregador de links para usar como cartão de visitas online.
+<a href="https://joao-ressel.github.io/meuslinks/">Acessar Meus Links aqui</a>
